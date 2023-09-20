@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Power_Step-Slave-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/Power_Step Slave Board-rescue.lib")(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri C:/Users/Andy/Downloads/arduino/arduino.lib)(options "")(descr ""))
+)
